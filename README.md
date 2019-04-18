@@ -1,8 +1,11 @@
 # CSS Grid Feature Section
-This is a simple 6 item grid with 3 columns (no set number of rows) made with CSS Grid.
+This is a simple About page layout with an image, some titles and some headers
 
 * Includes
-    * display: grid;
-    * grid-template-columns
-    * grid-gap
+    * display: grid
+    * grid-template-columns (parent property)
+    * grid-template-rows (parent property)
+    * grid-gap (parent property)
+    * grid-column (child property)
+    * grid-row (child property)
 
